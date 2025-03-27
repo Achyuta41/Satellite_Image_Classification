@@ -1,4 +1,4 @@
-# 🚀 Satellite Image Classification with Boundaries using YOLOv8
+# 🚀 Satellite Image Classification with Boundaries using YOLOv11
 
 ## 📚 Project Overview
 This project focuses on satellite image classification and boundary detection using YOLOv8. The goal is to classify land types and detect boundaries in multispectral images.
