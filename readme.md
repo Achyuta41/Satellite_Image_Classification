@@ -6,11 +6,11 @@ This project focuses on satellite image classification and boundary detection us
 ## 🎯 Objectives
 - Classify different land types from satellite images.
 - Detect boundaries of classified regions for precise mapping.
-- Enhance accuracy using fine-tuned YOLOv8 models.
+- Enhance accuracy using fine-tuned YOLOv11 models.
 
 ## 🛠️ Tech Stack
 - **Python**: Core programming language.
-- **YOLOv8**: Used for image classification and boundary detection.
+- **YOLOv11**: Used for image classification and boundary detection.
 - **OpenCV & NumPy**: For image processing and data manipulation.
 
 ## 📊 Dataset Structure
