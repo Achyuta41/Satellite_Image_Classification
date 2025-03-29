@@ -1,4 +1,0 @@
-train: D:\Yolov11_custom\train
-val: D:\Yolov11_custom\val
-nc: 4
-names: ["Agriland","Land","forest","water"]

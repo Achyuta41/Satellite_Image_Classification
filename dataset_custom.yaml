@@ -1,0 +1,12 @@
+# Dataset path
+path: D:\projects_github\Satellite_Image_Classification\data # Root directory of the dataset
+train: D:\projects_github\Satellite_Image_Classification\data\train # Directory containing training images
+val: D:\projects_github\Satellite_Image_Classification\data\val  # Directory containing validation images
+
+# Class names
+names:
+  0: Agriland
+  1: Land
+  2: forest
+  3: water
+
