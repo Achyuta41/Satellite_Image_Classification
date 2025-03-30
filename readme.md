@@ -14,7 +14,7 @@ This project focuses on *satellite image classification * using a custom YOLOv11
 
 ## 🛠️ Tech Stack
 - **Python**: Core programming language.
-- **YOLOv8**: Used for image classification and boundary detection.
+- **YOLOv11**: Used for image classification and boundary detection.
 - **OpenCV & NumPy**: For image processing and data manipulation.
 
 ---
