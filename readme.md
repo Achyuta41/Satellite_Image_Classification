@@ -8,7 +8,7 @@ This project focuses on *satellite image classification * using a custom YOLOv11
 ## 🎯 Objectives
 - Classify different land types from satellite images.
 - Detect boundaries of classified regions for precise mapping.
-- Enhance accuracy using fine-tuned YOLOv8 models.
+- Enhance accuracy using fine-tuned YOLOv11 models.
 
 ---
 
